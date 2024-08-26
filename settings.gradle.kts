@@ -10,3 +10,4 @@ plugins {
 }
 
 rootProject.name = "KotlinTest"
+include("Lab01StudyRegister")
