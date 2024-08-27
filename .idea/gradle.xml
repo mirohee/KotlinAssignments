@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Lab01StudyRegister" />
+            <option value="$PROJECT_DIR$/Lab02FractionClass" />
           </set>
         </option>
       </GradleProjectSettings>
