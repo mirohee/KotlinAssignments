@@ -12,3 +12,4 @@ plugins {
 rootProject.name = "KotlinTest"
 include("Lab01StudyRegister")
 include("Lab02FractionClass")
+include("Lab03Lotto")
