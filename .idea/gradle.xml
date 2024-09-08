@@ -11,6 +11,9 @@
             <option value="$PROJECT_DIR$/Lab01StudyRegister" />
             <option value="$PROJECT_DIR$/Lab02FractionClass" />
             <option value="$PROJECT_DIR$/Lab03Lotto" />
+            <option value="$PROJECT_DIR$/Lab03Lotto/Lab04Fraction" />
+            <option value="$PROJECT_DIR$/Lab04Fraction" />
+            <option value="$PROJECT_DIR$/Parliament" />
           </set>
         </option>
       </GradleProjectSettings>
